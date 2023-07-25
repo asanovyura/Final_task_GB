@@ -1,0 +1,15 @@
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\bin\Debug\net6.0\Final_task_GB.exe
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\bin\Debug\net6.0\Final_task_GB.deps.json
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\bin\Debug\net6.0\Final_task_GB.runtimeconfig.json
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\bin\Debug\net6.0\Final_task_GB.dll
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\bin\Debug\net6.0\Final_task_GB.pdb
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\Final_task_GB.csproj.AssemblyReference.cache
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\Final_task_GB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\Final_task_GB.AssemblyInfoInputs.cache
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\Final_task_GB.AssemblyInfo.cs
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\Final_task_GB.csproj.CoreCompileInputs.cache
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\Final_task_GB.dll
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\refint\Final_task_GB.dll
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\Final_task_GB.pdb
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\Final_task_GB.genruntimeconfig.cache
+C:\Users\ROG\Desktop\Final_Task_GB\Final_task_GB\obj\Debug\net6.0\ref\Final_task_GB.dll
